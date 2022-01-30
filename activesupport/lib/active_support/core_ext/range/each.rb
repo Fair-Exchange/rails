@@ -22,4 +22,4 @@ module ActiveSupport
   end
 end
 
-Range.prepend(ActiveSupport::EachTimeWithZone)
+
